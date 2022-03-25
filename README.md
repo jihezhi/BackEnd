@@ -4,7 +4,7 @@
 
 ## Tutorials
 
-1.學習Golang：https://go.dev/
+1.學習Golang：https://go.dev/ 完成官方教程：https://go.dev/tour/list
 
 2.在自己的電腦上使用Go語言寫一些自己喜歡的小程式
 
