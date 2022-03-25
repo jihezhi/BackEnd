@@ -15,3 +15,5 @@
 5.在自己的電腦上玩玩MySql：https://www.w3schools.com/
 
 * 注意，你在任何一個階段都可以提交上來給我評點，比如你作為練手做了一個和專案完全不相干的go程式。
+
+偶然找到的一個中文參考資料：https://github.com/hantmac/Mastering_Go_ZH_CN
